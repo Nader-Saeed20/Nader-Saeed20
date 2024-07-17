@@ -3,7 +3,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a backend developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Graphic Design and coding. You can find me on LinkedIn [@Sudo_Overflow]([https://twitter.com/sudo_overflow](https://www.linkedin.com/in/nader-saeed-618413204/)). Feel free to message me any time. 
+I'm a backend developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Graphic Design and coding. You can find me on  [LinkedIn](https://www.linkedin.com/in/nader-saeed-618413204/). Feel free to message me any time. 
 
 &nbsp;
 
